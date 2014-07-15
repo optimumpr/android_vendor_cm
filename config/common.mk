@@ -180,6 +180,11 @@ PRODUCT_PACKAGES += \
     sqlite3 \
     strace
 
+# ScreenRecorder
+PRODUCT_PACKAGES += \
+    ScreenRecorder \
+  	libscreenrecorder
+
 # Openssh
 PRODUCT_PACKAGES += \
     scp \
