@@ -183,7 +183,7 @@ PRODUCT_PACKAGES += \
 # ScreenRecorder
 PRODUCT_PACKAGES += \
     ScreenRecorder \
-  	libscreenrecorder
+    libscreenrecorder
 
 # Openssh
 PRODUCT_PACKAGES += \
