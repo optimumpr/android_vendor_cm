@@ -220,6 +220,10 @@ PRODUCT_COPY_FILES +=  \
     vendor/cm/proprietary/Term.apk:system/app/Term.apk \
     vendor/cm/proprietary/lib/armeabi/libjackpal-androidterm4.so:system/lib/libjackpal-androidterm4.so
 
+# Phone Number Location
+PRODUCT_COPY_FILES +=  \
+    vendor/cm/prebuilt/common/media/mokee-phoneloc.dat:system/media/mokee-phoneloc.dat
+
 PRODUCT_PROPERTY_OVERRIDES += \
     persist.sys.root_access=1
 else
