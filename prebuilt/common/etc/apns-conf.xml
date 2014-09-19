@@ -393,6 +393,7 @@
   <apn carrier="mms" mcc="250" mnc="07" apn="mms.smarts.ru" user="wap" password="wap" mmsc="http://172.24.120.135/mms/wapenc" mmsproxy="172.24.128.5" mmsport="8080" type="mms" />
   <apn carrier="МТС-интернет" mcc="250" mnc="10" apn="internet.mts.ru" user="mts" password="mts" type="default,supl" />
   <apn carrier="МТС Центр MMS" mcc="250" mnc="10" apn="mms.mts.ru" user="mts" password="mts" mmsc="http://mmsc" mmsproxy="192.168.192.192" mmsport="8080" type="mms" />
+  <apn carrier="Yota" mcc="250" mnc="11" apn="yota.ru" type="default,supl" />
   <apn carrier="Beeline internet" mcc="250" mnc="11" apn="internet.beeline.ru" user="beeline" password="beeline" type="default,supl" />
   <apn carrier="Beeline MMS" mcc="250" mnc="11" apn="mms.beeline.ru" user="beeline" password="beeline" mmsc="http://mms/" mmsproxy="192.168.094.023" mmsport="8080" type="mms" />
   <apn carrier="GPRS-Internet" mcc="250" mnc="12" apn="inet.bwc.ru" user="bwc" password="bwc" type="default,supl" />
@@ -1339,7 +1340,7 @@
   <apn carrier="Mobitel KH" mcc="456" mnc="01" apn="postpaid" user="mobitel" password="mobitel" type="default,supl" />
   <apn carrier="Mobitel Cellcard" mcc="456" mnc="01" apn="cellcard" user="mobitel" password="mobitel" type="default,supl" />
   <apn carrier="Mobitel MMS" mcc="456" mnc="01" apn="mms" user="mobitel" password="mobitel" mmsc="http://mms.mobitel.com.kh/mmsc" mmsproxy="203.144.95.98" mmsport="3130" type="mms" />
-  <apn carrier="Smart" mcc="456" mnc="02" apn="smart"type="default,supl" />
+  <apn carrier="Smart" mcc="456" mnc="02" apn="smart" type="default,supl" />
   <apn carrier="Smart MMS" mcc="456" mnc="02" apn="mms" mmsc="http://mmsc" mmsproxy="10.12.1.142" mmsport="8080" type="mms" />
   <apn carrier="qbmore" mcc="456" mnc="04" apn="WAP" type="default,supl" />
   <apn carrier="qbmore MMS" mcc="456" mnc="04" apn="mms" mmsc="http://mms.qbmore.mobi" mmsproxy="172.16.96.66" mmsport="8080" type="mms" />
