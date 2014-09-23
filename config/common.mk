@@ -146,6 +146,7 @@ PRODUCT_PACKAGES += \
 # Custom CM packages
 PRODUCT_PACKAGES += \
     Launcher3 \
+    LatinIME \
     DSPManager \
     libcyanogen-dsp \
     audio_effects.conf \
