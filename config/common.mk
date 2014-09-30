@@ -95,10 +95,6 @@ endif
 PRODUCT_COPY_FILES += \
     vendor/cm/prebuilt/common/bin/otasigcheck.sh:system/bin/otasigcheck.sh
 
-# Google Now Launcher
-PRODUCT_COPY_FILES += \
-    vendor/cm/prebuilt/common/app/GoogleHome.apk:system/priv-app/GoogleHome.apk
-
 # init.d support
 PRODUCT_COPY_FILES += \
     vendor/cm/prebuilt/common/etc/init.d/00banner:system/etc/init.d/00banner \
