@@ -1,4 +1,4 @@
-DCM OpenSource
+DarkCyanogenMod
 ===============
 
 Translators:
