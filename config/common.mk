@@ -84,7 +84,7 @@ PRODUCT_COPY_FILES += \
 
 # Copy over the translator to the device
 PRODUCT_COPY_FILES += \
-    vendor/mk/TRANSLATOR.mkdn:system/etc/TRANSLATOR-MK.txt
+    vendor/cm/TRANSLATOR.mkdn:system/etc/TRANSLATOR-DCM.txt
 
 # Backup Tool
 ifneq ($(WITH_GMS),true)
