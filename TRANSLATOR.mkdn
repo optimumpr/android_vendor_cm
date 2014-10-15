@@ -5,7 +5,6 @@ Developers:
 -----------
 
 * davidteri91 (XDA)
-* Cristiano Matos (XDA)
 * CyanogenMod Team
 
 
@@ -17,6 +16,17 @@ Maintainers:
 * Sony Xperia Z1 (honami): davidteri91 (XDA)
 * Sony Xperia Z1 Compact (amami): OmarEinea (XDA)
 * Sony Ericsson Xperia Arc (anzu): afi1982 (XDA)
+
+
+External Contributors:
+----------------------
+
+* Cristiano Matos (XDA)
+* PAC-man Rom Team
+* OmniRom Team
+* Paranoid Android Team
+* LiquidSmooth Team
+* AOKP Team
 
 
 Translators:
