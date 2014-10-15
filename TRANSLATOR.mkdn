@@ -4,7 +4,9 @@ DarkCyanogenMod
 Developers:
 -----------
 
-* davidteri91
+* davidteri91 (XDA)
+* Cristiano Matos (XDA)
+* CyanogenMod Team
 
 
 Maintainers:
@@ -13,6 +15,7 @@ Maintainers:
 * Samsung Galaxy S Plus (ariesve): davidteri91 (XDA)
 * Samsung Galaxy W (ancora): lafactorial (XDA)
 * Sony Xperia Z1 (honami): davidteri91 (XDA)
+* Sony Xperia Z1 Compact (amami): OmarEinea (XDA)
 * Sony Ericsson Xperia Arc (anzu): afi1982 (XDA)
 
 
@@ -22,4 +25,5 @@ Translators:
 * Arabic: ahmed dzico (XDA)
 * German: Henry2o1o (XDA)
 * Italian: xdema (XDA), davidteri91 (XDA)
+* Spanish: davidteri91 (XDA)
 * Turkish: lafactorial (XDA)
