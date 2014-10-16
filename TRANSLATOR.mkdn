@@ -11,6 +11,7 @@ Developers:
 Maintainers:
 ------------
 
+* Samsung Galaxy S Advance (janice): Bx16 (XDA)
 * Samsung Galaxy S Plus (ariesve): davidteri91 (XDA)
 * Samsung Galaxy W (ancora): lafactorial (XDA)
 * Sony Xperia Z1 (honami): davidteri91 (XDA)
