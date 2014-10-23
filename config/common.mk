@@ -86,10 +86,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     vendor/cm/TRANSLATOR.mkdn:system/etc/TRANSLATOR-DCM.txt
 
-# CM Gallery Next
-PRODUCT_COPY_FILES += \
-    vendor/cm/prebuilt/common/app/Gallery2.apk:system/app/Gallery2.apk
-
 # Backup Tool
 ifneq ($(WITH_GMS),true)
 PRODUCT_COPY_FILES += \
